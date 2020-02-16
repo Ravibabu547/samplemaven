@@ -118,7 +118,7 @@ and sisters with her effection and loveespecially through Bro.Ratnam and Smt.B.s
 <div class=fotter_img style=text align="center">
 <p class=fotter_text> <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">Home</A> | <A 
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">Contact 
-Us</A></P><SPAN class=footer_text>Copyright © 2009 Lenora College of Engineering 
+Us</A></P><SPAN class=footer_text>Copyright © 2009 adarsh college of engineering
 | All rights reserved | Reproduction in whole or in part without permission is 
 prohibited.</SPAN><BR><SPAN class=footer_text1>This site is best viewed by 
 Internet Explorer 6 and above versions with 1024 * 768 Pixels and Firefox 2.0.1 
