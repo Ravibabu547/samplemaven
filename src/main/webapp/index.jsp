@@ -190,12 +190,12 @@ and above versions</SPAN> </DIV><!--footer end--></DIV><!--wrapper end--></DIV><
 <TR valign="left">
 <td width="70%">
 <p align="left">
-<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\Alenora.HTML">lenora</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\Alenora.HTML">adrarsh</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">collage</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">fauculty</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\satish.HTML">Infrastructure</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\star.HTML">administration</A>|
-<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\sat.HTML">features & placementdesk</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\sat.HTML">features & games</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">transport</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">Downloads</A>
 </td>
