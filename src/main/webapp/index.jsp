@@ -108,7 +108,7 @@ HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML"><img src="e:\WA
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Lenora Bill Dudney,a faitfull lady at Willette Church of christ.She worked for many capacities 
 in USA. She acqaniated with Br.Ratnam through her husband,retired from millitary, worked as a co-ordinater of India mission Work. He made 16
 trips to India Now they retrieved and are examples for many church members.she had never been to India but she won the hearts of India Brothers 
-and sisters with her effection and loveespecially through Bro.Ratnam and Smt.B.subha Lakshmi Ratnam. </p1>
+and sisters with her effection and loveespecially through Bro.Ratnam and Smt.sunanda sai laxmi . </p1>
 </td>
 <td align="top" width="10%"></td>
 <td align="top" width="40%">
