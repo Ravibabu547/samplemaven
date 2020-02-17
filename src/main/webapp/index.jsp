@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
 <TITLE>NA</TITLE>
-<BODY BGCOLOR="black">
+<BODY BGCOLOR="blue">
 <BASEFONT COLOR="RED">
 <HI ALIGN="center">
 <BODy topmargin="0" leftmargin="0"Background="e:/wallpapers/lce/bg.jpg">
