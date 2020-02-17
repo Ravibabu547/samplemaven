@@ -100,7 +100,7 @@ HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML"><img src="e:\WA
 </td>
 </tr>
 </table>
-<marquee onmouseover=stop() onmouseout=start() scroll amount="3" loop="true"><BASEFONT COLOR="red">Lenora collage of Engineering</font></marquee>
+<marquee onmouseover=stop() onmouseout=start() scroll amount="3" loop="true"><BASEFONT COLOR="red">Aditya collage of Engineering</font></marquee>
 <table cellspacing="0" cellpadding="4"  border="0" id="table" width="100%">
 <td align="top" width="50%">
 <p class="subheading_style">About lenora<br><br>
