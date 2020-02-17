@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
 <TITLE>NA</TITLE>
-<BODY BGCOLOR="green">
+<BODY BGCOLOR="blue">
 <BASEFONT COLOR="RED">
 <HI ALIGN="center">
 <BODy topmargin="0" leftmargin="0"Background="e:/wallpapers/lce/bg.jpg">
@@ -108,7 +108,7 @@ HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML"><img src="e:\WA
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Lenora Bill Dudney,a faitfull lady at Willette Church of christ.She worked for many capacities 
 in USA. She acqaniated with Br.Ratnam through her husband,retired from millitary, worked as a co-ordinater of India mission Work. He made 16
 trips to India Now they retrieved and are examples for many church members.she had never been to India but she won the hearts of India Brothers 
-and sisters with her effection and loveespecially through Bro.Ratnam and Smt.B.subha Lakshmi Ratnam. </p1>
+and sisters with her effection and loveespecially through Bro.Ratnam and Smt.sunanda sai laxmi . </p1>
 </td>
 <td align="top" width="10%"></td>
 <td align="top" width="40%">
@@ -118,7 +118,7 @@ and sisters with her effection and loveespecially through Bro.Ratnam and Smt.B.s
 <div class=fotter_img style=text align="center">
 <p class=fotter_text> <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">Home</A> | <A 
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\\MY DOCUMENTS\A.HTML">Contact 
-Us</A></P><SPAN class=footer_text>Copyright © 2009 Lenora College of Engineering 
+Us</A></P><SPAN class=footer_text>Copyright © 2009 adarsh college of engineering
 | All rights reserved | Reproduction in whole or in part without permission is 
 prohibited.</SPAN><BR><SPAN class=footer_text1>This site is best viewed by 
 Internet Explorer 6 and above versions with 1024 * 768 Pixels and Firefox 2.0.1 
@@ -190,12 +190,12 @@ and above versions</SPAN> </DIV><!--footer end--></DIV><!--wrapper end--></DIV><
 <TR valign="left">
 <td width="70%">
 <p align="left">
-<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\Alenora.HTML">lenora</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\Alenora.HTML">adrarsh</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">collage</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">fauculty</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\satish.HTML">Infrastructure</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\star.HTML">administration</A>|
-<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\sat.HTML">features & placementdesk</A>|
+<A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\sat.HTML">features & games</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">transport</A>|
 <A HREF="C:\DOCUMENTS AND SETTINGS\nagasatish\MY DOCUMENTS\A.HTML">Downloads</A>
 </td>

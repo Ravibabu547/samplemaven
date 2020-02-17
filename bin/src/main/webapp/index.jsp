@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
-<TITLE>NA</TITLE>
-<BODY BGCOLOR="green">
+<TITLE>Akhil</TITLE>
+<BODY BGCOLOR="blue">
 <BASEFONT COLOR="RED">
 <HI ALIGN="center">
 <BODy topmargin="0" leftmargin="0"Background="e:/wallpapers/lce/bg.jpg">
@@ -177,9 +177,9 @@ prohibited.</SPAN><BR><SPAN class=footer_text1>This site is best viewed by
 Internet Explorer 6 and above versions with 1024 * 768 Pixels and Firefox 2.0.1 
 and above versions</SPAN> </DIV><!--footer end--></DIV><!--wrapper end--></DIV><!--pagecell end-->
 </body>
-</html>
+</HTML>
 
-<html>
+<HTML>
 <head>
 <TITLE></TITLE>
 <BODY TOPMARGIN="0" LEFTMARGIN="0" BACKGROUND="e:\WALLPAPERS\LCE\BG.JPG">
@@ -249,4 +249,4 @@ and above versions</p>  </span> </div>
 
 
 </body>
-</html>
+</HTML>
