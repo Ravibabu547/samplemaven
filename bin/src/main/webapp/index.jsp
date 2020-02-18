@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
 <TITLE>Akhil</TITLE>
-<BODY BGCOLOR="black">
+<BODY BGCOLOR="pink">
 <BASEFONT COLOR="RED">
 <HI ALIGN="center">
 <BODy topmargin="0" leftmargin="0"Background="e:/wallpapers/lce/bg.jpg">
